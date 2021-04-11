@@ -1,15 +1,17 @@
 image: node:14
 
 stages:
+  - pre-build
   - build
   - test
+  - deploy
 
 cache:
   paths:
     - node_modules/
 
 install_dependencies:
-  stage: build
+  stage: pre-build
   script:
     - npm install
   artifacts:
@@ -24,6 +26,10 @@ compile:
     paths:
       - dist
 
-testing_testing:
+testing:
   stage: test
   script: npm test
+
+deployment:
+  stage: deploy
+  script: echo "Deploying"
