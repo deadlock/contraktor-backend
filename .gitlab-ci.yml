@@ -33,3 +33,6 @@ testing:
 deployment:
   stage: deploy
   script: echo "Deploying"
+
+only:
+  - main
