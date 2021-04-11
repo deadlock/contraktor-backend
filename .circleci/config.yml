@@ -8,6 +8,6 @@ workflows:
 jobs:
   build: 
     docker:       
-      - image: contracktor_backend       
+      - image: contraktor-backend       
     steps:       
       - run: echo "hello world"          
