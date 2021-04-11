@@ -1,0 +1,110 @@
+{
+  "contracts": [
+    {
+      "id": "3a485462-75ae-43a3-aaeb-a817210d95c0",
+      "title": "Prestacao Servico Contraktor",
+      "expiration": "12/04/2030",
+      "startDate": "12/04/2021",
+      "file": "arquivo.pdf",
+      "parts": [
+        {
+          "id": "906ee2f9-cce7-431f-9a03-6c8d578be4a3",
+          "name": "Diogo",
+          "secondName": "Simão",
+          "document": "05307401922",
+          "email": "diogo@gmail.com",
+          "phone": {
+            "ddd": "48",
+            "number": "96950965"
+          }
+        },
+        {
+          "id": "906ee2f9-cce7-431f-9a03-6c8d578be4a3",
+          "name": "Diogo",
+          "secondName": "Simão",
+          "document": "05307401922",
+          "email": "diogo@gmail.com",
+          "phone": {
+            "ddd": "48",
+            "number": "96950965"
+          }
+        }
+      ]
+    },
+    {
+      "id": "0e29b26e-1b83-4247-a8a9-d85cceea568c",
+      "title": "Contrato teste",
+      "expiration": "01/10/11",
+      "startDate": "01/10/10",
+      "file": "diogo.jpg",
+      "parts": [
+        {
+          "id": "906ee2f9-cce7-431f-9a03-6c8d578be4a3",
+          "name": "Diogo",
+          "secondName": "Simão",
+          "document": "05307401922",
+          "email": "diogo@gmail.com",
+          "phone": {
+            "ddd": "48",
+            "number": "96950965"
+          }
+        }
+      ]
+    },
+    {
+      "id": "bcf3a8ec-7cb7-4044-bfcd-656b745356f5",
+      "title": "Contrato teste 2",
+      "expiration": "NaN",
+      "startDate": "NaN",
+      "file": "diogo.jpg",
+      "parts": [
+        {
+          "id": "906ee2f9-cce7-431f-9a03-6c8d578be4a3",
+          "name": "Diogo",
+          "secondName": "Simão",
+          "document": "05307401922",
+          "email": "diogo@gmail.com",
+          "phone": {
+            "ddd": "48",
+            "number": "96950965"
+          }
+        }
+      ]
+    }
+  ],
+  "parts": [
+    {
+      "id": "906ee2f9-cce7-431f-9a03-6c8d578be4a3",
+      "name": "Diogo",
+      "secondName": "Simão",
+      "document": "05307401922",
+      "email": "diogo@gmail.com",
+      "phone": {
+        "ddd": "48",
+        "number": "96950965"
+      }
+    },
+    {
+      "id": "98b0aa87-5001-47ed-8af6-ae1aa343cb35",
+      "name": "Diogo",
+      "secondName": "Simão",
+      "document": "05307401922",
+      "email": "diogo@gmail.com",
+      "phone": {
+        "ddd": "48",
+        "number": "96950965"
+      }
+    },
+    {
+      "id": "fc6f815d-fcb8-4891-a1c1-54adec63e40f",
+      "name": "Diogo",
+      "secondName": "Simao",
+      "document": "05307401922",
+      "phone": {
+        "ddd": "48",
+        "number": "996950965"
+      },
+      "email": "diogo@gmail.com"
+    }
+  ]
+}
